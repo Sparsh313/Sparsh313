@@ -22,12 +22,12 @@
 
 | Project         | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
-| 🔧 [Ad Manager](https://github.com/yourusername/ad-manager) | Ad script management for Google & Meta ads |
-| 🛍️ [E-comm](https://github.com/yourusername/E-comm)       | MERN stack e-commerce project with cart & auth |
-| ❤️ [LoveNest](https://github.com/yourusername/LoveNest)   | A dating app frontend with playful UI/UX        |
-| 🧠 [Lovenest-web](https://github.com/yourusername/Lovenest-web) | The web version of LoveNest                        |
-| 🌍 [Touristopia](https://github.com/yourusername/Touristopia) | Travel destination finder using APIs             |
-| ⚡ [EEE](https://github.com/yourusername/EEE)             | Academic platform for EEE project resources     |
+| 🔧 [Ad Manager](https://github.com/Sparsh313/ad-manager) | Ad script management for Google & Meta ads |
+| 🛍️ [E-comm](https://github.com/Sparsh313/E-comm)       | MERN stack e-commerce project with cart & auth |
+| ❤️ [LoveNest](https://github.com/Sparsh313/LoveNest)   | A dating app frontend with playful UI/UX        |
+| 🧠 [Lovenest-web](https://github.com/Sparsh313/Lovenest-web) | The web version of LoveNest                        |
+| 🌍 [Touristopia](https://github.com/Sparsh313/Touristopia) | Travel destination finder using APIs             |
+| ⚡ [EEE](https://github.com/Sparsh313/EEE)             | Academic platform for EEE project resources     |
 
 ---
 
