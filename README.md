@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I’m Sparsh Singh
 
-<!--
-**Sparsh313/Sparsh313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Final-year ECE student | Tier-3 College | MERN + Embedded
+- 🧠 I build fullstack apps and embedded systems (Arduino, IoT)
+- 🌱 Currently learning DevOps and Microcontrollers
+- 💼 Looking for SDE / Embedded internships and projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Key Projects
+| Project | Tech Used | Description |
+|--------|-----------|-------------|
+| [ecommerce-mern-app](https://github.com/...) | MERN | Full-featured e-commerce site |
+| [chat-app-socketio](https://github.com/...) | React + Node + Socket.io | Real-time chat |
+| [embedded-projects](https://github.com/...) | Arduino, C++ | RFID, sensors, automation |
+| [portfolio-site](https://github.com/...) | React + DaisyUI | Personal portfolio |
