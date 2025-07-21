@@ -32,7 +32,7 @@
 ---
 
 📫 How to reach me:
-- Email: `sparsh312003@example.com`
+- Email: `sparsh312003@gmail.com`
 - LinkedIn: [linkedin.com/in/sparsh-singh-895320253/](https://www.linkedin.com/in/sparsh-singh-895320253/)
 
 ---
